@@ -1,0 +1,31 @@
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DXExample.Module", "DXExample.Module\DXExample.Module.csproj", "{E4DA3425-B6C1-46EC-A50F-DB37D4A800FF}"
+EndProject
+Project("{00000000-0000-0000-0000-000000000000}") = "DXExample.Web", "DXExample.Web\DXExample.Web.csproj", "{F30C7BDE-8E77-4F64-BAF4-EBD8B4510FC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DXExample.Win", "DXExample.Win\DXExample.Win.csproj", "{FBFA4B44-0D09-4145-895E-33F3AE62245B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4DA3425-B6C1-46EC-A50F-DB37D4A800FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4DA3425-B6C1-46EC-A50F-DB37D4A800FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4DA3425-B6C1-46EC-A50F-DB37D4A800FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4DA3425-B6C1-46EC-A50F-DB37D4A800FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F30C7BDE-8E77-4F64-BAF4-EBD8B4510FC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F30C7BDE-8E77-4F64-BAF4-EBD8B4510FC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F30C7BDE-8E77-4F64-BAF4-EBD8B4510FC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F30C7BDE-8E77-4F64-BAF4-EBD8B4510FC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBFA4B44-0D09-4145-895E-33F3AE62245B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBFA4B44-0D09-4145-895E-33F3AE62245B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBFA4B44-0D09-4145-895E-33F3AE62245B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBFA4B44-0D09-4145-895E-33F3AE62245B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
